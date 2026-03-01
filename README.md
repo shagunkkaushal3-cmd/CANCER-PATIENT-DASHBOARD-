@@ -15,5 +15,6 @@ What proportion of patients have insurance coverage?
 How does cancer prevalence vary across racial groups?
 What percentage of cases are linked to lifestyle risk factors (smoking/alcohol)?
 ## Dashboard Link
-
+Screenshot 2026-02-22 202850.png
+## Report Link
 
