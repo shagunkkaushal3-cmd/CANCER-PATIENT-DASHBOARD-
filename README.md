@@ -15,6 +15,6 @@ https://github.com/shagunkkaushal3-cmd/CANCER-PATIENT-DASHBOARD-/blob/main/color
 9. How does cancer prevalence vary across racial groups?
 10. What percentage of cases are linked to lifestyle risk factors (smoking/alcohol)?
 ## Dashboard Link
-Screenshot 2026-02-22 202850.png
+https://github.com/shagunkkaushal3-cmd/CANCER-PATIENT-DASHBOARD-/blob/main/Screenshot%202026-02-22%20202850.png
 ## Report Link
 https://github.com/shagunkkaushal3-cmd/CANCER-PATIENT-DASHBOARD-/blob/main/cancer%20patient%20report.pdf
