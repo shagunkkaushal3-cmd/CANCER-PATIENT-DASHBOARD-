@@ -17,4 +17,4 @@ https://github.com/shagunkkaushal3-cmd/CANCER-PATIENT-DASHBOARD-/blob/main/color
 ## Dashboard Link
 Screenshot 2026-02-22 202850.png
 ## Report Link
-cancer patient report.pdf
+https://github.com/shagunkkaushal3-cmd/CANCER-PATIENT-DASHBOARD-/blob/main/cancer%20patient%20report.pdf
